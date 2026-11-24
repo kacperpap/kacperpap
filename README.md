@@ -2,11 +2,14 @@
   <img src="https://github.com/kacperpap/kacperpap/assets/64956354/4cae2c5a-d714-45e4-8ea9-2f80f1cbc188">
 </p>
 
-<br>
-
+<br></br>
 **📫 How to reach me - kacperpap@gmail.com**
+<br></br>
+**📄 See my resume - [CV](https://github.com/kacperpap/kacperpap/blob/main/CV.pdf)**
+<br></br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> **See my LinkedIn profile - [Kacper Papuga LinkedIn](https://www.linkedin.com/in/kacper-papuga-lorro/)**
+<br></br>
 
-<br>
 
 **Languages and tools I used most often in my projects:**
 <p align="left" style="display: flex; justify-content: space-between;"> 
